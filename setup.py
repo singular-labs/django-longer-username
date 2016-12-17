@@ -7,7 +7,7 @@ SOURCE_DIR = os.path.join(ROOT_DIR)
 
 setup(
     name = "longerusername",
-    version = "0.4",
+    version = "0.4.1",
     packages = find_packages(),
     zip_safe = False,
 )
